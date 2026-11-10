@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Only Fashion BD - Admin Panel</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
-<body>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-</body>
-</html>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/47c14e4d-6584-45c6-8009-056a98b6d0e3/deploy-status)](https://app.netlify.com/projects/onlyfashionbd/deploys)
